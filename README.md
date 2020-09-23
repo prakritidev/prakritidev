@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on SAP Cloud Platfrom Technologies(Cloud Foudry Environment), I spend most of my time designing multi-tenant(application and database) archictures. Generally, I work on Node.js, Python, Machine Learning on SAP Hana using R, Hana Database Cloud, SAP Successfactors. I also sometimes work in springboot as well.    
-- 🌱 I’m currently learning Machine learning in finance, japanese, bangali.
+- 🌱 I’m currently learning Machine learning in finance, japanese, bengali.
 - 👯 I’m looking to collaborate on my project researchkernel.org, I'm looking for a frontend developer(React.js). 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything realted to machine learning, deep learning(not that much updated now), finance, NLP, System Desing Archicture.
