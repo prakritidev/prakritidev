@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything realted to machine learning, deep learning(not that much updated now), finance, NLP, System Desing Archicture.
 - 📫 How to reach me: ... Connect with me on linkedin, or email me at prakritidevverma@gmail.com
-- 😄 Pronouns: ... I don't fucking care. 
+- 😄 Pronouns: ... Human. 
 - ⚡ Fun fact: ... I like anime, It would be great if you can recommend me phychological thriller anime(promise neverland, monster, Re:Zero kara Hajimeru Isekai Seikatsu). 
