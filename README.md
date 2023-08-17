@@ -1,1 +1,20 @@
-![Metrics](https://metrics.lecoq.io/prakritidev?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&posts.limit=10&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=10&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta)
+## Who I am ? 
+
+Just another regular developer, working primarily with java, used to work with python, nodejs. currently learning GO.
+
+---
+
+## What's currelty going on ?
+
+Aiming to be an author in openJDK, hopefully soon. 
+
+---
+
+## What are my long term goals and interests ?
+
+Personally interested and work on Finanical Machine learning models, distributed system desing, cloud archicture #bigStuff. And creating tutorials for myself.
+
+---
+## What I am open to ?
+
+Open to have discussions and collabotating on open source projects.
